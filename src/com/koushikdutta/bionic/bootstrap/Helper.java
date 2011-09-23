@@ -1,4 +1,4 @@
-package org.cvpcs.android.bionic.bootstrap;
+package com.koushikdutta.bionic.bootstrap;
 
 import java.io.DataOutputStream;
 import java.io.IOException;

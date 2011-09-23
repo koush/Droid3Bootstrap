@@ -1,4 +1,4 @@
-package org.cvpcs.android.bionic.bootstrap;
+package com.koushikdutta.bionic.bootstrap;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
@@ -10,7 +10,7 @@ import java.util.Vector;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
 
-import org.cvpcs.android.bionic.bootstrap.R;
+import com.koushikdutta.bionic.bootstrap.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;

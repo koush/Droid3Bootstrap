@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package org.cvpcs.android.bionic.bootstrap;
+package com.koushikdutta.bionic.bootstrap;
 
 public final class R {
     public static final class attr {
