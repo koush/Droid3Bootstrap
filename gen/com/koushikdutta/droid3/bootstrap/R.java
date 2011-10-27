@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.koushikdutta.bionic.bootstrap;
+package com.koushikdutta.droid3.bootstrap;
 
 public final class R {
     public static final class attr {

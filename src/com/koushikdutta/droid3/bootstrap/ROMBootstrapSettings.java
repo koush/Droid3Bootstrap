@@ -1,4 +1,4 @@
-package com.koushikdutta.bionic.bootstrap;
+package com.koushikdutta.droid3.bootstrap;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -10,7 +10,7 @@ import org.json.JSONObject;
 public class ROMBootstrapSettings {
     private static final String TAG = "DBB/ROMBootstrapSettings";
     
-    private static final File SETTINGS_FILE = new File("/system/etc/BionicBootstrap.cfg");
+    private static final File SETTINGS_FILE = new File("/system/etc/Droid3Bootstrap.cfg");
     private static final String RESTART_ADB_KEY = "restart_adb";
     private static final String INSTALL_HIJACK_KEY = "install_hijack";
     private static final String INSTALL_RECOVERY_KEY = "install_recovery";

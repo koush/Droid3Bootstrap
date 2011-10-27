@@ -1,4 +1,4 @@
-package com.koushikdutta.bionic.bootstrap;
+package com.koushikdutta.droid3.bootstrap;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

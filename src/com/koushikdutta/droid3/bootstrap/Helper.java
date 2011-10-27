@@ -1,4 +1,4 @@
-package com.koushikdutta.bionic.bootstrap;
+package com.koushikdutta.droid3.bootstrap;
 
 import java.io.DataOutputStream;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import android.content.Context;
 
 public class Helper {
 
-    static final String LOGTAG = "BionicBootstrap";
+    static final String LOGTAG = "Droid3Bootstrap";
 
     public final static String SCRIPT_NAME = "surunner.sh";
 
